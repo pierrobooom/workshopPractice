@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Problem changed to number 2.
+=======
+Problem changed to 3!
+>>>>>>> NewBranch2
